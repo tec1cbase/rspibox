@@ -1,7 +1,9 @@
 ![pibox](raspi.png)
 
 **RasberryPi Linux notes :::**
+
 (general Linux erros can be resolved with the following)
+
 #### sudo rm -r /var/lib/apt/lists/*
 #### apt-get clean && sudo apt-get update
 #### sudo apt-get autoclean
