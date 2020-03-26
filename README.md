@@ -1,4 +1,4 @@
-![Drag Racing](image/raspi.png)
+![pibox](raspi.png)
 
 **RasberryPi Linux notes :::**
 (general Linux erros can be resolved with the following)
